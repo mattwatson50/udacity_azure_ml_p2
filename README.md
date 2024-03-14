@@ -1,7 +1,7 @@
 ### Udacity Azure Machine Learning Engineer - Project 2
 
 # Project Overview
-This project focuses on creating and deploying machine learning models. Then creating endpoints for those models and accessing them via rest API's. This is achieved manually via the the azure machine learning studio (AMLS) interface as well as through an automated pipeline that generates all required steps through a jupyter notebook.
+This project focuses on creating and deploying a machine learning model. Then creating endpoints for those models and accessing them via rest API's. This is achieved manually via the the azure machine learning studio (AMLS) interface as well as through an automated pipeline that generates all required steps through a jupyter notebook.
 
 ## Creating the Model and Endpoints via Azure Machine Learning Studio
 For this section I'll go over what was done to create the model via azure machine learning studio GUI.
