@@ -47,7 +47,7 @@ We first establish a connection to our workspace, create an experiment within th
 
 ![alt text](https://raw.githubusercontent.com/mattwatson50/udacity_azure_ml_p2/main/screenshots/bank_mark_data_automl_python.png)
 
-Then we can setup our AutoML step to executed within the pipeline and create the pipeline itself.
+Then we can setup our AutoML step to be executed within the pipeline and create the pipeline itself.
 
 ![alt text](https://raw.githubusercontent.com/mattwatson50/udacity_azure_ml_p2/main/screenshots/pipeline_created.png)
 
@@ -58,6 +58,10 @@ We then execute said pipeline and check on it's status.
 After the pipeline completes the experiment we then retrieve the best results and prepare to deploy them to an endpoint for consumption.
 
 ![alt text](https://raw.githubusercontent.com/mattwatson50/udacity_azure_ml_p2/main/screenshots/pipeline_endpoint.png)
+
+Showing endpoint as active.
+
+![alt text](https://raw.githubusercontent.com/mattwatson50/udacity_azure_ml_p2/main/screenshots/pipeline_endpoint_active.png)
 
 ## Link to Screencast
 https://youtu.be/RbmDjXgmNSE
